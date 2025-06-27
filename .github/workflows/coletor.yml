@@ -3,7 +3,7 @@ name: Coleta Diária
 on:
   schedule:
     - cron: "0 3 * * *"  # Todos os dias às 03:00 UTC (meia-noite BRT)
-  workflow_dispatch:  # Também permite execução manual
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   coletar:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout do código
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # necessário para usar GITHUB_TOKEN manualmente
+          persist-credentials: false
 
       - name: Configurar Node.js
         uses: actions/setup-node@v3
@@ -34,4 +34,4 @@ jobs:
           git config user.email "actions@github.com"
           git add dados/
           git commit -m "Coleta diária: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Nada para commitar"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
