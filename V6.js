@@ -28,8 +28,6 @@ const MERCADOS = [
   { nome: 'FELIX SUPERMERCADO', cnpj: '60590998000153', categoria: 'Atacarejo', cidade: 'Arapiraca' },
   { nome: 'SUPERMERCADO MASTER', cnpj: '01635096000127', categoria: 'Atacarejo', cidade: 'Arapiraca' },
   { nome: 'SUPERMERCADOS SÃO LUIZ Baixão', cnpj: '15353706000104', categoria: 'Atacarejo', cidade: 'Arapiraca' },
-  { nome: 'G BARBOSA', cnpj: '39346861021754', categoria: 'Atacarejo', cidade: 'Arapiraca' },
-  { nome: 'SUPERMERCADO ALBUQUERQUE', cnpj: '70020680000433', categoria: 'Atacarejo', cidade: 'Arapiraca' },
   { nome: 'SUPERMERCADOS SAO LUIZ Ceci Cunha', cnpj: '15353706000619', categoria: 'Atacarejo', cidade: 'Arapiraca' }
 ];
 
@@ -114,7 +112,7 @@ const INTERVALO_EM_HORAS = 24; // Atualização agora a cada 24 horas
 const LIMITE_DIAS_HISTORICO = 35;
 const VERSAO_SCRIPT = "2.2.0-pastas-individuais";
 const CONCORRENCIA_PRODUTOS = 10;
-const CONCORRENCIA_MERCADOS = 3;
+const CONCORRENCIA_MERCADOS = 5;
 const RETRY_MAX = 3;
 const RETRY_BASE_MS = 2000;
 const BLACKLIST_RETRIES = 2;
