@@ -1,0 +1,35 @@
+name: Coleta Diária
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Todos os dias às 3h da manhã (UTC)
+  workflow_dispatch:  # Permite executar manualmente também
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Executar script de coleta
+        run: npm start
+        env:
+          ECONOMIZA_ALAGOAS_TOKEN: ${{ secrets.ECONOMIZA_ALAGOAS_TOKEN }}
+
+      - name: Commit e push dos dados
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dados/
+          git commit -m "Coleta diária: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Nada para commitar"
+          git push
