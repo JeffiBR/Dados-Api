@@ -26957,3 +26957,24 @@
 [2025-07-03T17:07:01.706Z] WARN: Blacklist temporária: 07671615000431|paleta de cabrito
 [2025-07-03T17:07:01.738Z] WARN: Tentativa 1 para 29457887000204|sardinha falhou. Retry em 2069.139662205255ms
 [2025-07-03T17:07:01.759Z] WARN: Tentativa 1 para 07771407000161|merluza falhou. Retry em 2055.198054468082ms
+[2025-07-03T17:07:01.818Z] WARN: Tentativa 1 para 07671615000431|merluza falhou. Retry em 2398.801383339571ms
+[2025-07-03T17:07:01.847Z] ERROR: [7/3/2025, 5:07:01 PM] Erro ao consultar "carneiro" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: [object Object]
+[2025-07-03T17:07:01.847Z] WARN: Blacklist temporária: 07671615000350|carneiro
+[2025-07-03T17:07:01.854Z] WARN: Tentativa 1 para 07671615000431|corvina falhou. Retry em 2317.52147967847ms
+[2025-07-03T17:07:01.908Z] ERROR: [7/3/2025, 5:07:01 PM] Erro ao consultar "pernil de cabrito" para Popular Atacarejo (CNPJ 07771407000161), página 1: [object Object]
+[2025-07-03T17:07:01.908Z] WARN: Blacklist temporária: 07771407000161|pernil de cabrito
+[2025-07-03T17:07:01.928Z] ERROR: [7/3/2025, 5:07:01 PM] Erro ao consultar "cabrito" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: [object Object]
+[2025-07-03T17:07:01.928Z] WARN: Blacklist temporária: 07671615000350|cabrito
+[2025-07-03T17:07:01.950Z] ERROR: [7/3/2025, 5:07:01 PM] Erro ao consultar "cabrito" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: [object Object]
+[2025-07-03T17:07:01.950Z] WARN: Blacklist temporária: 13152804000158|cabrito
+[2025-07-03T17:07:01.951Z] ERROR: [7/3/2025, 5:07:01 PM] Erro ao consultar "costela de carneiro" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: [object Object]
+[2025-07-03T17:07:01.951Z] WARN: Blacklist temporária: 13152804000158|costela de carneiro
+[2025-07-03T17:07:01.978Z] WARN: Tentativa 1 para 07671615000350|atum falhou. Retry em 2811.6030658636846ms
+[2025-07-03T17:07:02.038Z] WARN: Tentativa 1 para 07771407000161|corvina falhou. Retry em 2658.1092136724933ms
+[2025-07-03T17:07:02.057Z] WARN: Tentativa 1 para 07671615000350|sardinha falhou. Retry em 2908.785409808768ms
+[2025-07-03T17:07:02.075Z] ERROR: [7/3/2025, 5:07:02 PM] Erro ao consultar "cabrito" para Azul Atacarejo (CNPJ 29457887000204), página 1: [object Object]
+[2025-07-03T17:07:02.075Z] WARN: Blacklist temporária: 29457887000204|cabrito
+[2025-07-03T17:07:02.078Z] WARN: Tentativa 1 para 13152804000158|corvina falhou. Retry em 2466.779615557352ms
+[2025-07-03T17:07:02.078Z] WARN: Tentativa 1 para 13152804000158|pescada falhou. Retry em 2219.554502480618ms
+[2025-07-03T17:07:02.159Z] ERROR: [7/3/2025, 5:07:02 PM] Erro ao consultar "paleta de cabrito" para Azul Atacarejo (CNPJ 29457887000204), página 1: [object Object]
+[2025-07-03T17:07:02.160Z] WARN: Blacklist temporária: 29457887000204|paleta de cabrito
