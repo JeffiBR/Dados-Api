@@ -48,3 +48,353 @@
 [2025-06-28T03:12:00.432Z] ERROR: [6/28/2025, 3:12:00 AM] Erro ao consultar "farinha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
 [2025-06-28T03:12:00.477Z] ERROR: [6/28/2025, 3:12:00 AM] Erro ao consultar "café" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
 [2025-06-28T03:12:00.617Z] ERROR: [6/28/2025, 3:12:00 AM] Erro ao consultar "sal" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.736Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "farinha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.737Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "sal" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.738Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "óleo" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.739Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "feijão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.740Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "arroz" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.742Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "farinha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.787Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "leite" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.798Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "açúcar" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.807Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "arroz" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.836Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "açúcar" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.845Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "pão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.846Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "arroz" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.865Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "açúcar" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.914Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "sal" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.918Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "macarrão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:57.969Z] ERROR: [7/13/2025, 1:26:57 PM] Erro ao consultar "leite" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.000Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "café" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.030Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "farinha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.041Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "macarrão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.077Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "sal" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.078Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "macarrão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.089Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "café" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.111Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "pão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.116Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "macarrão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.139Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "café" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.145Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "pão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.184Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "feijão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.185Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "café" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.233Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "macarrão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.274Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "farinha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.308Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "pão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.324Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "feijão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.333Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "leite" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.383Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "arroz" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.402Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "óleo" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.405Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "açúcar" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.415Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "óleo" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.419Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "café" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.424Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "óleo" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.447Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "leite" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.459Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "farinha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.461Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "açúcar" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.498Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "sal" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.541Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "feijão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.578Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "pão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.582Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "leite" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.782Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "arroz" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.817Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "óleo" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.889Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "feijão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:26:58.937Z] ERROR: [7/13/2025, 1:26:58 PM] Erro ao consultar "sal" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.155Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão carioca" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.348Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "lentilha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.395Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão preto" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.537Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "arroz integral" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.558Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão preto" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.616Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "ervilha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.702Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "arroz parboilizado" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.717Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão carioca" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.775Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "arroz integral" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.803Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão preto" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.839Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão preto" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.852Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "arroz parboilizado" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.894Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão carioca" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.943Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "milho verde" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.946Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "lentilha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.947Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "ervilha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.954Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "feijão carioca" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.955Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "lentilha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.969Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "batata doce" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:34.971Z] ERROR: [7/13/2025, 1:29:34 PM] Erro ao consultar "arroz integral" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.031Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "feijão preto" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.060Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "feijão carioca" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.095Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "lentilha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.152Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "ervilha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.153Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "milho verde" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.154Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.155Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "mandioca" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.168Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata doce" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.173Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "arroz integral" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.246Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.254Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "arroz integral" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.297Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "milho verde" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.305Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.351Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "milho verde" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.366Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.399Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "arroz parboilizado" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.425Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "milho verde" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.476Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata doce" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.481Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "ervilha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.501Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata doce" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.526Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "ervilha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.541Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "mandioca" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.605Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "lentilha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.651Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "mandioca" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.694Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "arroz parboilizado" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.720Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "arroz parboilizado" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.793Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "mandioca" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:35.825Z] ERROR: [7/13/2025, 1:29:35 PM] Erro ao consultar "batata doce" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:36.064Z] ERROR: [7/13/2025, 1:29:36 PM] Erro ao consultar "batata" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:29:36.163Z] ERROR: [7/13/2025, 1:29:36 PM] Erro ao consultar "mandioca" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:10.473Z] ERROR: [7/13/2025, 1:32:10 PM] Erro ao consultar "aipim" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:10.853Z] ERROR: [7/13/2025, 1:32:10 PM] Erro ao consultar "aipim" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.437Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "beterraba" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.523Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "beterraba" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.603Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "abóbora" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.700Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "cenoura" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.722Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "aipim" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.728Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "abóbora" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.806Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "cenoura" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.822Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "tomate" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.832Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "pepino" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.853Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "cenoura" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.893Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "tomate" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.910Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "abóbora" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.933Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "aipim" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:11.996Z] ERROR: [7/13/2025, 1:32:11 PM] Erro ao consultar "cebola" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.023Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "beterraba" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.087Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "cenoura" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.124Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "cenoura" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.156Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "aipim" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.180Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "abóbora" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.194Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pepino" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.204Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "tomate" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.230Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "abóbora" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.246Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "cebola" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.322Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "tomate" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.358Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pepino" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.411Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "abobrinha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.417Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pimentão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.443Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "cebola" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.447Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "beterraba" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.451Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "beterraba" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.476Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pepino" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.490Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "alho" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.491Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "cebola" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.511Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pimentão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.661Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pimentão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.678Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "alho" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.696Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "abobrinha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.724Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "cebola" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.772Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "abobrinha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.798Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "alho" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.808Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "alho" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.819Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "alho" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.864Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "abobrinha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.876Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "tomate" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.881Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pimentão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:12.936Z] ERROR: [7/13/2025, 1:32:12 PM] Erro ao consultar "pimentão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:13.210Z] ERROR: [7/13/2025, 1:32:13 PM] Erro ao consultar "abobrinha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:32:13.357Z] ERROR: [7/13/2025, 1:32:13 PM] Erro ao consultar "pepino" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:47.133Z] ERROR: [7/13/2025, 1:34:47 PM] Erro ao consultar "alface" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:47.587Z] ERROR: [7/13/2025, 1:34:47 PM] Erro ao consultar "alface" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:47.905Z] ERROR: [7/13/2025, 1:34:47 PM] Erro ao consultar "espinafre" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.392Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "banana" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.414Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "espinafre" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.428Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "alface" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.602Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "rúcula" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.673Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "maçã" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.746Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "espinafre" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.821Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "espinafre" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.890Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "maçã" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.904Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "alface" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.922Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "maçã" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.976Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "banana" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:48.997Z] ERROR: [7/13/2025, 1:34:48 PM] Erro ao consultar "alface" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.002Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "rúcula" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.142Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "mamão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.168Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "rúcula" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.169Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "mamão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.172Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "limão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.176Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "banana" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.215Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "laranja" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.275Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "limão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.295Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "uva" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.319Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "espinafre" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.361Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "abacaxi" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.389Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "maçã" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.501Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "banana" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.514Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "limão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.605Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "rúcula" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.628Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "laranja" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.658Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "limão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.658Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "laranja" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.662Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "uva" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.666Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "mamão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.694Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "laranja" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.714Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "banana" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.823Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "rúcula" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.896Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "mamão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.919Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "mamão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.932Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "abacaxi" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.940Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "maçã" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:49.999Z] ERROR: [7/13/2025, 1:34:49 PM] Erro ao consultar "uva" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:50.055Z] ERROR: [7/13/2025, 1:34:50 PM] Erro ao consultar "limão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:50.072Z] ERROR: [7/13/2025, 1:34:50 PM] Erro ao consultar "uva" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:50.231Z] ERROR: [7/13/2025, 1:34:50 PM] Erro ao consultar "laranja" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:50.541Z] ERROR: [7/13/2025, 1:34:50 PM] Erro ao consultar "uva" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:50.664Z] ERROR: [7/13/2025, 1:34:50 PM] Erro ao consultar "abacaxi" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:50.806Z] ERROR: [7/13/2025, 1:34:50 PM] Erro ao consultar "abacaxi" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:34:51.022Z] ERROR: [7/13/2025, 1:34:51 PM] Erro ao consultar "abacaxi" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:23.676Z] ERROR: [7/13/2025, 1:37:23 PM] Erro ao consultar "melancia" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:24.339Z] ERROR: [7/13/2025, 1:37:24 PM] Erro ao consultar "melão" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:24.726Z] ERROR: [7/13/2025, 1:37:24 PM] Erro ao consultar "melancia" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:24.729Z] ERROR: [7/13/2025, 1:37:24 PM] Erro ao consultar "melancia" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:24.804Z] ERROR: [7/13/2025, 1:37:24 PM] Erro ao consultar "melancia" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.235Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "melão" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.356Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "manga" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.548Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "pera" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.624Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "melão" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.731Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "melão" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.749Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "ameixa" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.761Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "melão" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.790Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "pera" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.824Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "manga" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.946Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "pera" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:25.959Z] ERROR: [7/13/2025, 1:37:25 PM] Erro ao consultar "carne" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.007Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "coco" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.027Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "caqui" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.119Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "goiaba" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.149Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "coco" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.193Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "kiwi" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.234Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "goiaba" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.295Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "caqui" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.325Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "melancia" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.386Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "pera" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.512Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "manga" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.537Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "caqui" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.599Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "kiwi" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.701Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "goiaba" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.718Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "kiwi" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.749Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "ameixa" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.766Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "kiwi" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.771Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "manga" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:26.915Z] ERROR: [7/13/2025, 1:37:26 PM] Erro ao consultar "carne" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.047Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "manga" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.062Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "goiaba" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.078Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "ameixa" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.130Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "ameixa" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.252Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "kiwi" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.258Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "carne" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.303Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "pera" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.381Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "coco" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.407Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "coco" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.466Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "caqui" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.503Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "ameixa" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.540Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "coco" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.616Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "goiaba" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:27.721Z] ERROR: [7/13/2025, 1:37:27 PM] Erro ao consultar "caqui" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:28.055Z] ERROR: [7/13/2025, 1:37:28 PM] Erro ao consultar "carne" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:37:28.778Z] ERROR: [7/13/2025, 1:37:28 PM] Erro ao consultar "carne" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:01.000Z] ERROR: [7/13/2025, 1:40:01 PM] Erro ao consultar "alcatra" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:01.064Z] ERROR: [7/13/2025, 1:40:01 PM] Erro ao consultar "carne bovina" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:01.854Z] ERROR: [7/13/2025, 1:40:01 PM] Erro ao consultar "carne bovina" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:01.965Z] ERROR: [7/13/2025, 1:40:01 PM] Erro ao consultar "contrafilé" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.273Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "coxão mole" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.317Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "alcatra" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.319Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "alcatra" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.443Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "carne bovina" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.506Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "carne bovina" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.570Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "coxão duro" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.584Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "fraldinha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.626Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "carne bovina" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.643Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "alcatra" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.722Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "contrafilé" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.742Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "contrafilé" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.767Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "contrafilé" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.923Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "patinho" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.927Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "patinho" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:02.975Z] ERROR: [7/13/2025, 1:40:02 PM] Erro ao consultar "picanha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.060Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "alcatra" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.105Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "coxão duro" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.141Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "filé mignon" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.240Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "maminha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.244Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "fraldinha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.295Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "contrafilé" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.373Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "coxão mole" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.537Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "maminha" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.658Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "picanha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.802Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "coxão mole" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.905Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "filé mignon" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.923Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "patinho" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.924Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "fraldinha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.981Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "coxão duro" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:03.987Z] ERROR: [7/13/2025, 1:40:03 PM] Erro ao consultar "maminha" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.046Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "coxão duro" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.052Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "coxão mole" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.076Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "patinho" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.080Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "coxão mole" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.129Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "coxão duro" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.143Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "maminha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.158Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "filé mignon" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.177Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "filé mignon" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.320Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "picanha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.362Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "maminha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.478Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "picanha" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.591Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "filé mignon" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.794Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "fraldinha" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:04.881Z] ERROR: [7/13/2025, 1:40:04 PM] Erro ao consultar "patinho" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:05.443Z] ERROR: [7/13/2025, 1:40:05 PM] Erro ao consultar "fraldinha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:40:05.520Z] ERROR: [7/13/2025, 1:40:05 PM] Erro ao consultar "picanha" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:37.762Z] ERROR: [7/13/2025, 1:42:37 PM] Erro ao consultar "costela" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:38.223Z] ERROR: [7/13/2025, 1:42:38 PM] Erro ao consultar "músculo" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:38.607Z] ERROR: [7/13/2025, 1:42:38 PM] Erro ao consultar "costela" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.095Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "acém" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.115Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "costela" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.275Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "lagarto" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.282Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "lagarto" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.293Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "músculo" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.398Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "lagarto" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.403Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "aba de filé" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.498Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "músculo" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.528Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "costela" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.542Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "músculo" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.563Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "paleta" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.569Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "bisteca bovina" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.798Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "paleta" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.849Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "paleta" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:39.894Z] ERROR: [7/13/2025, 1:42:39 PM] Erro ao consultar "acém" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.030Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "costela" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.070Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "acém" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.199Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "músculo" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.266Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "cupim" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.303Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "lagarto" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.331Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "lagarto" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.335Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "paleta" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.370Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "miolo da paleta" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.482Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "cupim" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.817Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "ossobuco" para Azul Atacarejo (CNPJ 29457887000204), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.943Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "aba de filé" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:40.959Z] ERROR: [7/13/2025, 1:42:40 PM] Erro ao consultar "cupim" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.028Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "aba de filé" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.073Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "miolo da paleta" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.086Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "acém" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.134Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "aba de filé" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.169Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "bisteca bovina" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.170Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "bisteca bovina" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.171Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "aba de filé" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.196Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "acém" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.219Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "bisteca bovina" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.261Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "ossobuco" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.266Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "miolo da paleta" para Jomarte Atacarejo (CNPJ 13152804000158), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.266Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "ossobuco" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.289Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "paleta" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.511Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "cupim" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.809Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "miolo da paleta" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.907Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "bisteca bovina" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:41.954Z] ERROR: [7/13/2025, 1:42:41 PM] Erro ao consultar "cupim" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:42.424Z] ERROR: [7/13/2025, 1:42:42 PM] Erro ao consultar "ossobuco" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:42.451Z] ERROR: [7/13/2025, 1:42:42 PM] Erro ao consultar "ossobuco" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-13T13:42:42.636Z] ERROR: [7/13/2025, 1:42:42 PM] Erro ao consultar "miolo da paleta" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
