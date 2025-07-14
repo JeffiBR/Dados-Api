@@ -398,3 +398,4 @@
 [2025-07-13T13:42:42.424Z] ERROR: [7/13/2025, 1:42:42 PM] Erro ao consultar "ossobuco" para Bella Compora Rua Do Sol (CNPJ 07671615000350), página 1: timeout of 50000ms exceeded
 [2025-07-13T13:42:42.451Z] ERROR: [7/13/2025, 1:42:42 PM] Erro ao consultar "ossobuco" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
 [2025-07-13T13:42:42.636Z] ERROR: [7/13/2025, 1:42:42 PM] Erro ao consultar "miolo da paleta" para Bella Compora Rua São João (CNPJ 07671615000431), página 1: timeout of 50000ms exceeded
+[2025-07-14T13:38:56.799Z] ERROR: [7/14/2025, 1:38:56 PM] Erro ao consultar "ameixa" para Popular Atacarejo (CNPJ 07771407000161), página 1: timeout of 50000ms exceeded
