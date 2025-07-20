@@ -446,3 +446,53 @@
 [2025-07-17T13:36:37.368Z] ERROR: [7/17/2025, 1:36:37 PM] Erro ao consultar "pera" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
 [2025-07-17T13:36:37.375Z] ERROR: [7/17/2025, 1:36:37 PM] Erro ao consultar "queijo minas" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
 [2025-07-17T13:36:37.413Z] ERROR: [7/17/2025, 1:36:37 PM] Erro ao consultar "blanquet" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.434Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "molho de tomate" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.544Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "pastrami" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.590Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "pé de frango" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.728Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "mate" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.822Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "fermento" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.855Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "salaminho" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.947Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "moela de frango" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.951Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "chester" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:46.969Z] ERROR: [7/20/2025, 1:29:46 PM] Erro ao consultar "coração de frango" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.026Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "carne moída" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.032Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "maionese" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.036Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "peru" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.173Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "extrato de tomate" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.327Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "matambre" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.357Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "requeijão" para ATACADAO S.A (CNPJ 75315333014835), página 2: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.462Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "presunto parma" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.486Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "fígado de frango" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.533Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "mostarda" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.643Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "peito de peru" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.763Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "fiambre" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.779Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "granola" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.804Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "vazio" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:47.990Z] ERROR: [7/20/2025, 1:29:47 PM] Erro ao consultar "pescoço de frango" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:29:48.005Z] ERROR: [7/20/2025, 1:29:48 PM] Erro ao consultar "defumado" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:38.832Z] ERROR: [7/20/2025, 1:30:38 PM] Erro ao consultar "biscoito" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.174Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "pancetta" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.248Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "biscoito recheado" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.264Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "sabão em pó" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.379Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "ovos" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.532Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "milho em lata" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.671Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "gelatina" para ATACADAO S.A (CNPJ 75315333014835), página 2: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.730Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "costelinha suína" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.941Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "panceta" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.944Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "linguiça de porco" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:39.951Z] ERROR: [7/20/2025, 1:30:39 PM] Erro ao consultar "biscoito água e sal" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.021Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "sabão em barra" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.063Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "amaciante" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.102Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "joelho de porco" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.108Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "bolacha" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.133Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "frango defumado" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.200Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "torresmo" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.343Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "pé de porco" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.351Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "paleta suína" para SUPERMERCADOS SAO LUIZ Ceci Cunha (CNPJ 15353706000619), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.473Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "clara de ovo" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.635Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "desinfetante" para FELIX SUPERMERCADO (CNPJ 60590998000153), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.846Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "frango" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 3: timeout of 50000ms exceeded
+[2025-07-20T13:30:40.884Z] ERROR: [7/20/2025, 1:30:40 PM] Erro ao consultar "gema de ovo" para SUPERMERCADO MASTER (CNPJ 01635096000127), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:41.376Z] ERROR: [7/20/2025, 1:30:41 PM] Erro ao consultar "costela de cordeiro" para SUPERMERCADOS SÃO LUIZ Baixão (CNPJ 15353706000104), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:41.500Z] ERROR: [7/20/2025, 1:30:41 PM] Erro ao consultar "doce" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
+[2025-07-20T13:30:41.795Z] ERROR: [7/20/2025, 1:30:41 PM] Erro ao consultar "chocolate" para ATACADAO S.A (CNPJ 75315333014835), página 1: timeout of 50000ms exceeded
