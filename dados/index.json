@@ -4,79 +4,79 @@
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "07671615000431",
-    "ultima_coleta": "2025-07-27T13:26:54.632Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/bella_compora_rua_sao_joao/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:35:49.106Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/bella_compora_rua_sao_joao/2025-07-28/1335"
   },
   "13152804000158": {
     "nome": "Jomarte Atacarejo",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "13152804000158",
-    "ultima_coleta": "2025-07-27T13:26:54.618Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/jomarte_atacarejo/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:35:49.095Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/jomarte_atacarejo/2025-07-28/1335"
   },
   "29457887000204": {
     "nome": "Azul Atacarejo",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "29457887000204",
-    "ultima_coleta": "2025-07-27T13:26:54.627Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/azul_atacarejo/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:35:49.101Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/azul_atacarejo/2025-07-28/1335"
   },
   "01635096000127": {
     "nome": "SUPERMERCADO MASTER",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "01635096000127",
-    "ultima_coleta": "2025-07-27T13:30:52.597Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/supermercado_master/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:36:31.656Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/supermercado_master/2025-07-28/1335"
   },
   "75315333014835": {
     "nome": "ATACADAO S.A",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "75315333014835",
-    "ultima_coleta": "2025-07-27T13:30:16.347Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/atacadao_s_a/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:36:26.020Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/atacadao_s_a/2025-07-28/1335"
   },
   "15353706000104": {
     "nome": "SUPERMERCADOS SÃO LUIZ Baixão",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "15353706000104",
-    "ultima_coleta": "2025-07-27T13:31:09.746Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/supermercados_sao_luiz_baixao/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:36:32.017Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/supermercados_sao_luiz_baixao/2025-07-28/1335"
   },
   "60590998000153": {
     "nome": "FELIX SUPERMERCADO",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "60590998000153",
-    "ultima_coleta": "2025-07-27T13:30:27.963Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/felix_supermercado/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:36:26.995Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/felix_supermercado/2025-07-28/1335"
   },
   "15353706000619": {
     "nome": "SUPERMERCADOS SAO LUIZ Ceci Cunha",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "15353706000619",
-    "ultima_coleta": "2025-07-27T13:31:42.213Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/supermercados_sao_luiz_ceci_cunha/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:36:36.134Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/supermercados_sao_luiz_ceci_cunha/2025-07-28/1335"
   },
   "07771407000161": {
     "nome": "Popular Atacarejo",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "07771407000161",
-    "ultima_coleta": "2025-07-27T13:26:54.598Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/popular_atacarejo/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:35:49.076Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/popular_atacarejo/2025-07-28/1335"
   },
   "07671615000350": {
     "nome": "Bella Compora Rua Do Sol",
     "categoria": "Atacarejo",
     "cidade": "Arapiraca",
     "cnpj": "07671615000350",
-    "ultima_coleta": "2025-07-27T13:26:54.636Z",
-    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/bella_compora_rua_do_sol/2025-07-27/1326"
+    "ultima_coleta": "2025-07-28T13:35:49.110Z",
+    "pasta_dados": "/home/runner/work/Dados-Api/Dados-Api/dados/supermercados/bella_compora_rua_do_sol/2025-07-28/1335"
   }
 }
