@@ -15,7 +15,7 @@ const BACKUP_DIR = path.join(BASE_DADOS, "backup");
 // Tempo limite do lock em milissegundos (exemplo: 2 horas)
 const LOCK_TIMEOUT_MS = 2 * 60 * 60 * 1000; // 2 horas
 
-const ECONOMIZA_ALAGOAS_TOKEN = process.env.ECONOMIZA_ALAGOAS_TOKEN || 'token_fake';
+const ECONOMIZA_ALAGOAS_TOKEN = process.env.ECONOMIZA_ALAGOAS_TOKEN || '0c80f47b7a0e3987fc8283c4a53e88c03191812a';
 const ECONOMIZA_ALAGOAS_API_URL = 'http://api.sefaz.al.gov.br/sfz-economiza-alagoas-api/api/public/produto/pesquisa';
 
 const MERCADOS = [
@@ -633,4 +633,5 @@ module.exports = {
   MERCADOS,
   NOMES_PRODUTOS
 };
+
 
